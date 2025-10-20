@@ -5,3 +5,10 @@ target
 node_modules
 test-ledger
 .yarn
+
+day1/.anchor
+day1/node_modules
+day2/.anchor
+day2/node_modules
+
+test-ledger/
